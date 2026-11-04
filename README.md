@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,55:172554,100:312E81&height=240&section=header&text=Aqib%20Shaikh&fontSize=58&fontColor=F8FAFC&fontAlignY=38&animation=fadeIn&desc=ANDROID%20DEVELOPER%20%20%C2%B7%20%20PRODUCT%20BUILDER&descAlignY=62&descSize=15" width="100%" alt="Aqib Shaikh — Android developer and product builder" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,55:172554,100:312E81&height=240&section=header&text=Aqib%20Shaikh&fontSize=58&fontColor=F8FAFC&fontAlignY=38&animation=fadeIn&desc=ANDROID%20DEVELOPER%20%20%20PRODUCT%20BUILDER&descAlignY=62&descSize=15&descColor=C4B5FD&descFont=Verdana&font=Verdana" width="100%" alt="Aqib Shaikh - Android developer and product builder" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=21&duration=3000&pause=1100&color=C4B5FD&center=true&vCenter=true&width=680&lines=I+build+apps+from+ambitious+ideas.;Product-minded.+Always+learning.;Currently+building+Inscit." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=21&duration=3000&pause=1100&color=C4B5FD&center=true&vCenter=true&width=680&lines=I+build+apps+from+ambitious+ideas.;Product-minded+developer;Always+learning,+shipping,+and+refining." alt="Animated intro" />
 
 <br />
 
@@ -139,13 +139,13 @@ Test what works, improve the experience, and keep iterating.
 </a>
 &nbsp;
 <a href="https://github.com/Aqib-Shaikh709">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqib-Shaikh709&layout=compact&hide_border=true&bg_color=0B1020&title_color=C4B5FD&text_color=D7DFEA" alt="Most-used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqib-Shaikh709&layout=compact&hide_border=true&bg_color=0B1020&title_color=C4B5FD&text_color=D7DFEA" alt="Most used languages" />
 </a>
 
 <br /><br />
 
 <a href="https://github.com/Aqib-Shaikh709">
-  <img src="https://streak-stats.demolab.com?user=Aqib-Shaikh709&hide_border=true&background=0B1020&ring=818CF8&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub contribution streak" />
+  <img src="https://raw.githubusercontent.com/Aqib-Shaikh709/Aqib-Shaikh709/copilot/realtime-streak-ui/assets/streak.svg" alt="GitHub public activity streak" width="900" />
 </a>
 
 <br /><br />
@@ -156,7 +156,7 @@ Test what works, improve the experience, and keep iterating.
 
 </div>
 
-<sub>Activity and statistics come from third-party services. They may be cached, delayed, or unavailable, and aren’t guaranteed to update in real time.</sub>
+<sub>Activity and statistics come from GitHub public data and third-party services. They may be cached, delayed, or unavailable, and aren’t guaranteed to update in real time.</sub>
 
 ## Get in touch
 
