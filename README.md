@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,55:172554,100:312E81&height=240&section=header&text=Aqib%20Shaikh&fontSize=58&fontColor=F8FAFC&fontAlignY=38&animation=fadeIn&desc=ANDROID%20DEVELOPER%20%20%C2%B7%20%20PRODUCT%20BUILDER&descAlignY=62&descSize=15" width="100%" alt="Aqib Shaikh — Android developer and product builder" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,55:172554,100:312E81&height=240&section=header&text=Aqib%20Shaikh&fontSize=58&fontColor=F8FAFC&fontAlignY=38&animation=fadeIn" alt="Aqib Shaikh" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=21&duration=3000&pause=1100&color=C4B5FD&center=true&vCenter=true&width=680&lines=I+build+apps+from+ambitious+ideas.;Product-minded.+Always+learning.;Currently+building+Inscit." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=21&duration=3000&pause=1100&color=C4B5FD&center=true&vCenter=true&width=680&lines=I+build+apps+from+ambitious+ideas.;Product-focused+Android+developer" alt="Typing introduction" />
 
 <br />
 
@@ -20,7 +20,7 @@
 
 ## Building ideas into products
 
-I’m **Aqib**, a teenage Android developer interested in the full journey from **“what if?”** to a working product. I enjoy making ambitious projects, learning by shipping, and improving the details that make an app useful and enjoyable.
+I’m **Aqib**, a teenage Android developer interested in the full journey from **“what if?”** to a working product. I enjoy making ambitious projects, learning by shipping, and improving the details along the way.
 
 <table>
 <tr>
@@ -126,9 +126,13 @@ Test what works, improve the experience, and keep iterating.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,figma&theme=dark" alt="Kotlin, Android Studio, Git, GitHub and Figma" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,nodejs,firebase,git,github,figma&theme=dark" alt="Kotlin, Android Studio, Node.js, Firebase, Git, GitHub and Figma" />
 
 </div>
+
+### Android development
+
+`Room` &nbsp; `Jetpack Compose` &nbsp; `XML`
 
 ## Languages known
 
@@ -143,23 +147,23 @@ Test what works, improve the experience, and keep iterating.
 <div align="center">
 
 <a href="https://github.com/Aqib-Shaikh709">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aqib-Shaikh709&show_icons=true&hide_border=true&bg_color=0B1020&title_color=C4B5FD&text_color=D7DFEA&icon_color=818CF8&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aqib-Shaikh709&show_icons=true&hide_border=true&bg_color=0B1020&title_color=C4B5FD&text_color=D7DFEA&icon_color=818CF8" alt="Aqib's GitHub stats" />
 </a>
 &nbsp;
 <a href="https://github.com/Aqib-Shaikh709">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqib-Shaikh709&layout=compact&hide_border=true&bg_color=0B1020&title_color=C4B5FD&text_color=D7DFEA" alt="Most-used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqib-Shaikh709&layout=compact&hide_border=true&bg_color=0B1020&title_color=C4B5FD&text_color=D7DFEA" alt="Most used languages" />
 </a>
 
 <br /><br />
 
 <a href="https://github.com/Aqib-Shaikh709">
-  <img src="https://streak-stats.demolab.com?user=Aqib-Shaikh709&hide_border=true&background=0B1020&ring=818CF8&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=Aqib-Shaikh709&hide_border=true&background=0B1020&ring=818CF8&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC" alt="GitHub streak" />
 </a>
 
 <br /><br />
 
 <a href="https://github.com/Aqib-Shaikh709">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aqib-Shaikh709&bg_color=0B1020&color=D7DFEA&line=818CF8&point=C4B5FD&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aqib-Shaikh709&bg_color=0B1020&color=D7DFEA&line=818CF8&point=C4B5FD&area=true&hide_border=true" alt="GitHub activity graph" />
 </a>
 
 </div>
