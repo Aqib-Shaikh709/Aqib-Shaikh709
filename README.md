@@ -126,7 +126,15 @@ Test what works, improve the experience, and keep iterating.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github&theme=dark" alt="Kotlin, Android Studio, Git and GitHub" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,figma&theme=dark" alt="Kotlin, Android Studio, Git, GitHub and Figma" />
+
+</div>
+
+## Languages known
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,css,html,js,java,kotlin&theme=dark" alt="Python, CSS, HTML, JavaScript, Java and Kotlin" />
 
 </div>
 
