@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,55:172554,100:312E81&height=240&section=header&text=Aqib%20Shaikh&fontSize=58&fontColor=F8FAFC&fontAlignY=38&animation=fadeIn&desc=Android%20Developer%20%7C%20Builder%20of%20ideas&descSize=20&descColor=C4B5FD" alt="Aqib Shaikh" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,55:172554,100:312E81&height=240&section=header&text=Aqib%20Shaikh&fontSize=58&fontColor=F8FAFC&fontAlignY=38&animation=fadeIn&desc=Android%20Developer%20%7C%20Product%20Builder&descSize=18&descColor=C4B5FD" alt="Aqib Shaikh banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1200&color=C4B5FD&center=true&vCenter=true&width=700&lines=I+build+thoughtful+mobile+experiences.;I+turn+ideas+into+usable+products.;I+love+learning+by+shipping." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1200&color=C4B5FD&center=true&vCenter=true&width=700&lines=I+design+usable+mobile+experiences.;I+build+practical+apps+people+actually+enjoy.;I+turn+ideas+into+thoughtful+products." alt="Developer typing banner" />
 
 <br />
 
 <a href="https://github.com/Aqib-Shaikh709?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20my%20work-Projects-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" />
+  <img src="https://img.shields.io/badge/Explore%20My%20Work-Projects-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" />
 </a>
 &nbsp;
 <a href="https://github.com/Aqib-Shaikh709/Inscit">
-  <img src="https://img.shields.io/badge/Featured%20project-Inscit-111827?style=for-the-badge&logo=android&logoColor=A78BFA" alt="Featured project: Inscit" />
+  <img src="https://img.shields.io/badge/Featured%20Project-Inscit-111827?style=for-the-badge&logo=android&logoColor=A78BFA" alt="Featured project: Inscit" />
 </a>
 
 </div>
@@ -20,9 +20,11 @@
 
 ## About me
 
-Hi, I’m Aqib — a developer focused on building useful Android experiences from raw ideas into polished products. I enjoy solving real problems, learning by shipping, and improving the things I build through iteration.
+Hi, I’m Aqib — a product-minded Android developer who enjoys taking rough ideas and turning them into useful, polished experiences.
 
-I’m especially interested in the full product journey: discovering a need, designing a practical solution, building it, and refining it until it feels genuinely useful.
+I care about building apps that feel thoughtful, clear, and genuinely helpful in everyday life. My focus is not just on writing code, but on understanding the problem, designing a practical solution, and refining the experience until it feels natural to use.
+
+I enjoy learning by shipping, improving through feedback, and finding the sweet spot between function, usability, and design.
 
 <table>
 <tr>
@@ -30,9 +32,9 @@ I’m especially interested in the full product journey: discovering a need, des
 
 ### My approach
 
-I like to work with curiosity and intent. Instead of just building apps for the sake of building, I focus on usefulness, clarity, and a smooth user experience.
+I like to build with intention. I start with the real need, think through what makes the experience smooth and valuable, and iterate until it feels both functional and memorable.
 
-I care about learning the craft behind the product — how it feels, how it flows, and how it helps people in the real world.
+I care deeply about usability, product thinking, and the small details that make software feel polished instead of just functional.
 
 </td>
 <td width="42%" valign="top">
@@ -46,7 +48,7 @@ Android
 Kotlin
 
 <strong>Workflow</strong><br />
-Build · test · improve
+Build · test · improve · repeat
 
 <strong>Current project</strong><br />
 <a href="https://github.com/Aqib-Shaikh709/Inscit">Inscit ↗</a>
@@ -65,14 +67,15 @@ Build · test · improve
 
 ### Inscit
 
-A focused study experience designed for offline use and distraction-free learning.
+A focused study experience built for distraction-free learning and offline productivity.
 
-Inscit explores how local-first tools and short, intentional study sessions can make learning more practical and more sustainable.
+Inscit is a personal exploration of how local-first features, simplified workflows, and intentional design can make learning more sustainable and more effective.
 
 - Offline-first experience
-- Rapid sprint-based study flow
+- Lightweight, focused study flow
 - Local-first data handling
 - Clean, high-contrast Android UI
+- Built around practical learning habits
 
 `Kotlin` &nbsp; `Android` &nbsp; `Productivity`
 
@@ -90,7 +93,7 @@ Inscit explores how local-first tools and short, intentional study sessions can 
 <br /><br />
 
 <a href="https://github.com/Aqib-Shaikh709?tab=repositories">
-  <img src="https://img.shields.io/badge/More%20ideas-View%20all%20repositories-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
+  <img src="https://img.shields.io/badge/More%20Ideas-View%20all%20repositories-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
 </a>
 
 </td>
@@ -101,7 +104,7 @@ Inscit explores how local-first tools and short, intentional study sessions can 
 
 ---
 
-## How I like to build
+## What I like to build
 
 <table>
 <tr>
@@ -109,21 +112,21 @@ Inscit explores how local-first tools and short, intentional study sessions can 
 
 ### 01 / Explore
 
-Start with a real question, problem, or opportunity worth solving.
+I start with the real problem, the user need, or the opportunity worth solving.
 
 </td>
 <td width="33%" valign="top">
 
 ### 02 / Build
 
-Turn the idea into something tangible and learn quickly through execution.
+I turn ideas into something tangible and learn quickly through execution.
 
 </td>
 <td width="34%" valign="top">
 
 ### 03 / Refine
 
-Test, improve, and iterate until the experience feels practical and meaningful.
+I test, improve, and iterate until the product feels clear, smooth, and actually useful.
 
 </td>
 </tr>
@@ -141,7 +144,7 @@ Test, improve, and iterate until the experience feels practical and meaningful.
 
 ### Android development
 
-`Room` &nbsp; `Jetpack Compose` &nbsp; `XML`
+`Room` &nbsp; `Jetpack Compose` &nbsp; `XML` &nbsp; `Material Design`
 
 ### Languages I work with
 
@@ -158,23 +161,23 @@ Test, improve, and iterate until the experience feels practical and meaningful.
 <div align="center">
 
 <a href="https://github.com/Aqib-Shaikh709">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aqib-Shaikh709&show_icons=true&hide_border=true&bg_color=0B1020&title_color=C4B5FD&text_color=D7DFEA&icon_color=818CF8&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aqib-Shaikh709&show_icons=true&hide_border=true&bg_color=0B1020&title_color=C4B5FD&text_color=D7DFEA&icon_color=818CF8&rank_icon=github" alt="GitHub stats" />
 </a>
 &nbsp;
 <a href="https://github.com/Aqib-Shaikh709">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqib-Shaikh709&layout=compact&hide_border=true&bg_color=0B1020&title_color=C4B5FD&text_color=D7DFEA" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqib-Shaikh709&layout=compact&hide_border=true&bg_color=0B1020&title_color=C4B5FD&text_color=D7DFEA" alt="Top languages" />
 </a>
 
 <br /><br />
 
 <a href="https://github.com/Aqib-Shaikh709">
-  <img src="https://streak-stats.demolab.com?user=Aqib-Shaikh709&hide_border=true&background=0B1020&ring=818CF8&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&border=0" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Aqib-Shaikh709&hide_border=true&background=0B1020&ring=818CF8&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC" alt="GitHub streak stats" />
 </a>
 
 <br /><br />
 
 <a href="https://github.com/Aqib-Shaikh709">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aqib-Shaikh709&bg_color=0B1020&color=D7DFEA&line=818CF8&point=C4B5FD&area=true&hide_border=true" alt="Contribution graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aqib-Shaikh709&bg_color=0B1020&color=D7DFEA&line=818CF8&point=C4B5FD&area=true&hide_border=true" alt="Contribution activity graph" />
 </a>
 
 </div>
@@ -189,7 +192,7 @@ Test, improve, and iterate until the experience feels practical and meaningful.
 
 ### Have an idea, question, or feedback?
 
-I enjoy connecting with people who build, learn, and share ideas. Here are a few ways to connect:
+I enjoy connecting with people who build, learn, and share ideas. If you’re working on something interesting, I’d love to hear about it.
 
 <br />
 
@@ -222,7 +225,7 @@ If you’re curious about my work or want to discuss an idea, feel free to brows
 
 ### 📚 Inscit feedback
 
-If you’re using Inscit, feedback is always welcome — whether it’s a suggestion, bug report, or improvement idea.
+If you’re using Inscit, feedback is always welcome — whether it’s a suggestion, a bug report, or an improvement idea.
 
 [Open an issue ↗](https://github.com/Aqib-Shaikh709/Inscit/issues)
 
